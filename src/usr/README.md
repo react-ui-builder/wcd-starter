@@ -32,3 +32,9 @@ Each component being placed on the page becomes an instance of a component with 
 ### Contribution
 
 If you see a bug in a component, or if you want to add a new component to the library, we would be happy if you create a new PR for this library in GitHub repo: [link to github repo].
+
+## Community
+
+If you need any help, don't be afraid to speak up!
+
+You can ask questions at [Spectrum chat](https://spectrum.chat/react-ui-builder)

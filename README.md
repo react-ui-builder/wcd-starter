@@ -54,5 +54,4 @@ Your component library code must be included in one or more project templates so
 If you need any help or want someone to set up the library project with you and get you stepping through code in your IDE, 
 don't be afraid to speak up!
 
-You can ask questions or talk about React UI Builder at:
-* [Spectrum chat](https://spectrum.chat/react-ui-builder)
+You can ask questions or talk about React UI Builder at [Spectrum chat](https://spectrum.chat/react-ui-builder)
