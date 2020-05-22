@@ -48,3 +48,11 @@ Your component library code must be included in one or more project templates so
 4. Write the letter to the React UI Builder team (reactuibuilder(at)gmail.com) with the `Update React UI Builder library` subject. Specify the path to the library project repo in the letter body.
 
 **Please note:** All repositories should be public and have MIT license.
+
+## Community
+
+If you need any help or want someone to set up the library project with you and get you stepping through code in your IDE, 
+don't be afraid to speak up!
+
+You can ask questions or talk about React UI Builder at:
+* [Spectrum chat](https://spectrum.chat/react-ui-builder)
