@@ -2,9 +2,13 @@
 
 > Current version of the library: `1.0.0`
 
-#### Watch: [Introduction video](https://youtu.be/jeZyOjZKxYc)
+### Watch video tutorial
 
-## Download project template:
+* [Introduction video](https://youtu.be/jeZyOjZKxYc)
+
+### Download project template:
+
+* Choose the appropriate boilerplate for your new project and download it to your local disk. 
 
 | Framework | Boilerplate | Repository |
 |---|---|---|
@@ -12,9 +16,7 @@
 | NextJS | [Download]()  | [Source Code]() |
 | Gatsby | [Download]()  | [Source Code]() |
 
-> Choose the appropriate boilerplate for your new project and download it to your local disk. 
-
-## Add new components
+### Contribute
 
 * We will be happy if you create a new PR for this library in GitHub repo: [wcd-project-repo-link]().
 
