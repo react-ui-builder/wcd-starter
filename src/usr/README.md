@@ -5,13 +5,14 @@
 #### Watch: [Introduction video](https://youtu.be/jeZyOjZKxYc)
 
 ## Download project template:
-> Choose the appropriate boilerplate for your new project and download it to your local disk. 
 
 | Framework | Boilerplate | Repository |
 |---|---|---|
 | Create React App | [Download]()  | [Source Code]() |
 | NextJS | [Download]()  | [Source Code]() |
 | Gatsby | [Download]()  | [Source Code]() |
+
+> Choose the appropriate boilerplate for your new project and download it to your local disk. 
 
 ## Add new components
 
