@@ -7,17 +7,11 @@
 ## Download project template:
 > Choose the appropriate boilerplate for your new project and download it to your local disk. 
 
-#### Boilerplate for Create React App: 
-* [Download Link]()
-* [Source Code Link]()
-
-#### Boilerplate for NextJS: 
-* [Download Link]()
-* [Source Code Link]()
-
-#### Boilerplate for Gatsby: 
-* [Download Link]()
-* [Source Code Link]()
+| Framework | Boilerplate | Repository |
+|---|---|---|
+| Create React App | [Download]()  | [Source Code]() |
+| NextJS | [Download]()  | [Source Code]() |
+| Gatsby | [Download]()  | [Source Code]() |
 
 ## Add new components
 
