@@ -1,12 +1,12 @@
 # Library project for the React UI Builder platform
 
-This repository serves as a starting point for creating a library of components that can be processed in React UI Builder
+This repository is a starting point for creating a library of components that can be processed in React UI Builder and used out of the box in any React Web Application.
 
 Since React UI Builder is based on a visual Web application builder - [Webcodesk](https://github.com/webcodesk/webcodesk-srv), we use Webcodesk to create the component library locally.
 
 ### The instruction for creating components:
 
-1. Make a copy of this repository into your own repository on GitHub.
+1. Make a copy (fork) of this repository into your own repository on GitHub.
 
 2. Clone your repo to the local disk and run `yarn install` command in the command line.
 
